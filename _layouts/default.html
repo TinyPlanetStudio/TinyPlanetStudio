@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% seo %}
+  </head>
+
+  <body>
+    <header>
+      <div class="container" style="display: flex; align-items: center; gap: 20px;">
+        <!-- Logo Image -->
+        <img 
+          src="{{ '/assets/images/logo.png' | relative_url }}" 
+          alt="TinyPlanet Studio Logo" 
+          style="width: 75px; height: 75px; object-fit: contain;"
+        >
+
+        <!-- Header Text Block -->
+        <div>
+          <a id="a-title" href="{{ '/' | relative_url }}" style="text-decoration: none;">
+            <h1 style="margin: 0;">./ {{ site.title | default: site.github.repository_name }}</h1>
+          </a>
+          <h2 style="margin: 5px 0 0 0;">{{ site.description | default: site.github.project_tagline }}</h2>
+          
+          <!-- Optional Header Navigation Links -->
+          <nav style="margin-top: 8px;">
+            <a href="{{ '/' | relative_url }}" style="margin-right: 15px; color: #b5e853; font-weight: bold;">Home</a>
+            <a href="{{ '/about/' | relative_url }}" style="color: #b5e853; font-weight: bold;">About Us</a>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+    </div>
+  </body>
+</html>
