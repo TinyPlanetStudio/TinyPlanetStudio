@@ -3,8 +3,8 @@ layout: home
 title: "Subject Zero"
 ---
 
-Welcome to the official devlog for **Subject Zero**, created by bread and illustrated by fallenmoon at **TinyPlanetStudio**.
+Welcome to the official devlog for **Subject Zero**, created by the team at **TinyPlanet Studio**.
 
-This page automatically shows the latest development posts.
+Find the latest devlogs below!.
 
 [Join the Discord](https://discord.gg/avF4vUrxSP)
