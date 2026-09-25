@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About Us
 permalink: /about/
 ---
@@ -13,6 +13,11 @@ I started TinyPlanet Studio as a school project, but it has grown to be much mor
 
 
 
+Hey, we're the **Anti-Joe System** (they/them)! Collectively we go by **Ux**, but you can also call us **Fallenmoon**!
+
+We are the Lead Artist of Tiny Planet Studio, we do all the art and concept designs!
+
+We like playing Minecraft, Palworld and Cult of the Lamb. We raise chickens in our free time and currently have a flock of three!
 
 ---
 
