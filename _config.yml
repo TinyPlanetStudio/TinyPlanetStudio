@@ -1,6 +1,6 @@
 title: "Subject Zero Devlog"
 description: "Updates from the TinyPlanet Studio team"
-theme: minima
+theme: hacker
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
