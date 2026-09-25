@@ -13,7 +13,8 @@ I started TinyPlanet Studio as a school project, but it has grown to be much mor
 
 
 
-Hey, we're the **Anti-Joe System** (they/them)! Collectively we go by **Ux**, but you can also call us **Fallenmoon**!
+## Hey, we're the **Anti-Joe System** (they/them)!
+Collectively we go by **Ux**, but you can also call us **Fallenmoon**!
 
 We are the Lead Artist of Tiny Planet Studio, we do all the art and concept designs!
 
