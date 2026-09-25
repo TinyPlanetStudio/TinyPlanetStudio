@@ -24,5 +24,5 @@ We like playing Minecraft, Palworld and Cult of the Lamb. We raise chickens in o
 
 
 ### Connect with Us
-- **Discord:** [Join the Community](https://discord.gg/avF4vUrxSP)
-- **Email Us:** [Email](mailto:tinyplanetstudio@outlook.com)
+- [**Join the Discord**](https://discord.gg/avF4vUrxSP)
+- [**Email Us**](mailto:tinyplanetstudio@outlook.com)
