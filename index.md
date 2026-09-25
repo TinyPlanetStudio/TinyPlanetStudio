@@ -3,7 +3,6 @@ layout: home
 title: "Subject Zero"
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -74,10 +73,10 @@ title: "Subject Zero"
 <body>
   <div class="container">
     <h1>Subject Zero</h1>
-    <h2>by TinyPlanetStudio</h2>
+    <h2>by TinyPlanet Studio</h2>
 
     <p>
-      Welcome to the official community hub for <strong>TinyPlanetStudio</strong>  
+      Welcome to the official community hub for <strong>TinyPlanet Studio</strong>.
       Join the community to get early access, follow development, and help shape the future of the game.
     </p>
 
@@ -92,7 +91,7 @@ title: "Subject Zero"
     </a>
 
     <footer>
-      TinyPlanet Studio · bread & fallenmoon  
+      TinyPlanet Studio
     </footer>
   </div>
 </body>
