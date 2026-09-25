@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Subject Zero"
+title: "TinyPlanet Studio"
 ---
 
 Welcome to the official devlog for **Subject Zero**, created by the team at **TinyPlanet Studio**.
