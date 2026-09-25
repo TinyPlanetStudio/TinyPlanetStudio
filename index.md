@@ -10,6 +10,7 @@ Find the latest devlogs below!.
 <a href="{{ '/about/' | relative_url }}" style="display: inline-block; padding: 0.5rem 1rem; background-color: #1f6feb; color: white; border-radius: 6px; text-decoration: none; font-weight: bold;">
   About Us
 </a>
+
 <a href="https://discord.gg/avF4vUrxSP" style="display: inline-block; padding: 0.5rem 1rem; background-color: #1f6feb; color: white; border-radius: 6px; text-decoration: none; font-weight: bold;">
   Join the Discord
 </a>
